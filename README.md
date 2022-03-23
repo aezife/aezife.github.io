@@ -9,7 +9,7 @@
 <!-- note -->
 
 <!-- paragraph -->
-<p>Halo semua, saya yakin kebanyakan dari kamu mengunjungi repositori ini setelah membaca artikel <a href="https://www.ezfile.id/tutorial-lengkap-membuat-social-page-link-profil-keren" data-type="URL" data-id="tutorial-lengkap-membuat-social-page-link-profil-keren">Tutorial Lengkap Membuat Social Page/Link Profil Keren</a> yang ditulis oleh <a href="https://instagram.com/aezife" data-type="URL" data-id="https://instagram.com/aezife">saya</a>. Dalam artikel tersebut, saya menyediakan beberapa contoh template yang bisa kamu gunakan untuk link profil keren buatanmu sendiri. Namun perlu kamu ketahui, bahwa template-template tersebut bukanlah template buatan saya.</p>
+<p>Halo semua, saya yakin kebanyakan dari kamu mengunjungi repositori ini setelah membaca artikel <a href="https://www.ezfile.id/tutorial-membuat-social-page-link-profil-keren/" data-type="URL" data-id="tutorial-lengkap-membuat-social-page-link-profil-keren">Tutorial Lengkap Membuat Social Page/Link Profil Keren</a> yang ditulis oleh <a href="https://instagram.com/aezife" data-type="URL" data-id="https://instagram.com/aezife">saya</a>. Dalam artikel tersebut, saya menyediakan beberapa contoh template yang bisa kamu gunakan untuk link profil keren buatanmu sendiri. Namun perlu kamu ketahui, bahwa template-template tersebut bukanlah template buatan saya.</p>
 <!-- paragraph -->
 
 <!-- paragraph -->
